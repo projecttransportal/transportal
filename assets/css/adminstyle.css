@@ -1,0 +1,5 @@
+body{background-color:#e9eaed;}h1{ width:100%;text-align:center; margin:120px auto 5px auto;}
+.wrapper-for-login{width:100%;text-align: center;display:block; max-width: 300px;margin:0px auto 0px auto;}.wrapper-for-login p{color:red;} fieldset{border:0px;} #fieldset{background-color:#fff;}
+input{padding:6px 0px 6px 0px;margin:4px; max-width:100%;}
+.container1{width:100%; max-width:295px;text-align: center}
+#submit{width:100%;cursor:pointer;border:0px;} #submit:hover{background-image:-webkit-gradient(linear,left top,left bottom,from(#969696),to(#969696)); color:#fff;}
